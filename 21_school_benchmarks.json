@@ -1,0 +1,187 @@
+{
+  "_source": "From The Engineering Dad, 'You Do Not Need To Know How To Code To Build A College Admissions Predictor Tonight', https://theengineeringdad.substack.com/p/the-easiest-first-build. Each entry below is real Common Data Set admissions data, 2025-26 cycle, ready to paste into the institution_benchmark block of request_template.json.",
+  "California Institute of Technology": {
+    "school": "California Institute of Technology",
+    "admit_rate_percent": 3.79,
+    "sat_math_25th": 790,
+    "sat_math_75th": 800,
+    "act_composite_25th": 35,
+    "act_composite_75th": 36
+  },
+  "Harvard University": {
+    "school": "Harvard University",
+    "admit_rate_percent": 4.18,
+    "sat_math_25th": 730,
+    "sat_math_75th": 790,
+    "act_composite_25th": 33,
+    "act_composite_75th": 35
+  },
+  "Yale University": {
+    "school": "Yale University",
+    "admit_rate_percent": 4.75,
+    "sat_composite_25th": 1480,
+    "sat_composite_75th": 1560,
+    "sat_math_25th": 740,
+    "sat_math_75th": 790,
+    "act_composite_25th": 33,
+    "act_composite_75th": 35
+  },
+  "University of Chicago": {
+    "school": "University of Chicago",
+    "admit_rate_percent": 4.48,
+    "sat_composite_25th": 1500,
+    "sat_composite_75th": 1560,
+    "sat_math_25th": 760,
+    "sat_math_75th": 790,
+    "act_composite_25th": 34,
+    "act_composite_75th": 35
+  },
+  "Dartmouth College": {
+    "school": "Dartmouth College",
+    "admit_rate_percent": 6.02,
+    "sat_composite_25th": 1440,
+    "sat_composite_75th": 1550,
+    "sat_math_25th": 720,
+    "sat_math_75th": 790,
+    "act_composite_25th": 32,
+    "act_composite_75th": 35
+  },
+  "Duke University": {
+    "school": "Duke University",
+    "admit_rate_percent": 5.71,
+    "sat_math_25th": 760,
+    "sat_math_75th": 800,
+    "act_composite_25th": 34,
+    "act_composite_75th": 35
+  },
+  "Cornell University": {
+    "school": "Cornell University",
+    "admit_rate_percent": 8.38,
+    "sat_composite_25th": 1490,
+    "sat_composite_75th": 1550,
+    "sat_math_25th": 770,
+    "sat_math_75th": 800,
+    "act_composite_25th": 33,
+    "act_composite_75th": 35
+  },
+  "Rice University": {
+    "school": "Rice University",
+    "admit_rate_percent": 8.0,
+    "sat_composite_25th": 1510,
+    "sat_composite_75th": 1560,
+    "sat_math_25th": 770,
+    "sat_math_75th": 800,
+    "act_composite_25th": 34,
+    "act_composite_75th": 35
+  },
+  "New York University": {
+    "school": "New York University",
+    "admit_rate_percent": 9.23,
+    "sat_composite_25th": 1480,
+    "sat_composite_75th": 1550,
+    "sat_math_25th": 760,
+    "sat_math_75th": 800,
+    "act_composite_25th": 34,
+    "act_composite_75th": 35
+  },
+  "Tufts University": {
+    "school": "Tufts University",
+    "admit_rate_percent": 10.82,
+    "sat_composite_25th": 1460,
+    "sat_composite_75th": 1520,
+    "sat_math_25th": 730,
+    "sat_math_75th": 780,
+    "act_composite_25th": 33,
+    "act_composite_75th": 35
+  },
+  "Washington University in St Louis": {
+    "school": "Washington University in St Louis",
+    "admit_rate_percent": 11.92,
+    "sat_composite_25th": 1500,
+    "sat_composite_75th": 1550,
+    "sat_math_25th": 760,
+    "sat_math_75th": 790,
+    "act_composite_25th": 33,
+    "act_composite_75th": 35
+  },
+  "Georgia Institute of Technology": {
+    "school": "Georgia Institute of Technology",
+    "admit_rate_percent": 13.34,
+    "sat_composite_25th": 1370,
+    "sat_composite_75th": 1530,
+    "sat_math_25th": 700,
+    "sat_math_75th": 790,
+    "act_composite_25th": 31,
+    "act_composite_75th": 35
+  },
+  "University of North Carolina at Chapel Hill": {
+    "school": "University of North Carolina at Chapel Hill",
+    "admit_rate_percent": 16.75,
+    "sat_composite_25th": 1400,
+    "sat_composite_75th": 1530,
+    "sat_math_25th": 700,
+    "sat_math_75th": 780,
+    "act_composite_25th": 29,
+    "act_composite_75th": 34
+  },
+  "University of Florida": {
+    "school": "University of Florida",
+    "admit_rate_percent": 20.33,
+    "sat_composite_25th": 1330,
+    "sat_composite_75th": 1490,
+    "sat_math_25th": 660,
+    "sat_math_75th": 750,
+    "act_composite_25th": 29,
+    "act_composite_75th": 33
+  },
+  "University of California, San Diego": {
+    "school": "University of California, San Diego",
+    "admit_rate_percent": 28.56
+  },
+  "University of California, Irvine": {
+    "school": "University of California, Irvine",
+    "admit_rate_percent": 28.78
+  },
+  "Case Western Reserve University": {
+    "school": "Case Western Reserve University",
+    "admit_rate_percent": 35.31,
+    "sat_composite_25th": 1440,
+    "sat_composite_75th": 1530,
+    "sat_math_25th": 730,
+    "sat_math_75th": 780,
+    "act_composite_25th": 32,
+    "act_composite_75th": 34
+  },
+  "North Carolina State University": {
+    "school": "North Carolina State University",
+    "admit_rate_percent": 41.73,
+    "sat_composite_25th": 1290,
+    "sat_composite_75th": 1440,
+    "sat_math_25th": 640,
+    "sat_math_75th": 740,
+    "act_composite_25th": 25,
+    "act_composite_75th": 32
+  },
+  "University of California, Davis": {
+    "school": "University of California, Davis",
+    "admit_rate_percent": 41.83
+  },
+  "University of Minnesota": {
+    "school": "University of Minnesota",
+    "admit_rate_percent": 78.87,
+    "sat_composite_25th": 1310,
+    "sat_composite_75th": 1460,
+    "sat_math_25th": 650,
+    "sat_math_75th": 750,
+    "act_composite_25th": 26,
+    "act_composite_75th": 32
+  },
+  "University of Kentucky": {
+    "school": "University of Kentucky",
+    "admit_rate_percent": 93.52,
+    "sat_math_25th": 510,
+    "sat_math_75th": 630,
+    "act_composite_25th": 21,
+    "act_composite_75th": 28
+  }
+}

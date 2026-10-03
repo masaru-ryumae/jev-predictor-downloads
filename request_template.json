@@ -1,0 +1,39 @@
+{
+  "_source": "From The Engineering Dad, 'You Do Not Need To Know How To Code To Build A College Admissions Predictor Tonight', https://theengineeringdad.substack.com/p/the-easiest-first-build. Read the free section for the five-minute version, the paid section explains what every field here means and how the full pipeline works.",
+  "_instructions": "This is the file call_jev.py reads. Replace every value in applicant_profile with your own kid's real numbers. Replace institution_benchmark with one school's entry copied straight out of 21_school_benchmarks.json, no retyping needed. Delete this _source and _instructions field before running, they are not real fields Jev reads, they are just notes for you.",
+  "state": {
+    "applicant_profile": {
+      "gpa_unweighted": 3.9,
+      "sat_composite": 1500,
+      "sat_math": 780,
+      "state_residency": "WA",
+      "intended_major": "Computer Science",
+      "annual_budget_max_usd": 65000,
+      "ap_de_course_count": 9,
+      "highest_math_completed": "AP Calculus BC",
+      "builder_delta_level": "Level 2, Artifact. The applicant built and shipped a working tool, used only by the applicant, with no outside adoption yet."
+    },
+    "institution_benchmark": {
+      "school": "Cornell University",
+      "admit_rate_percent": 8.38,
+      "sat_composite_25th": 1490,
+      "sat_composite_75th": 1550,
+      "sat_math_25th": 770,
+      "sat_math_75th": 800,
+      "act_composite_25th": 33,
+      "act_composite_75th": 35
+    }
+  },
+  "questions": {
+    "admissions_category": {
+      "type": "choice",
+      "instructions": "Based on the applicant profile and the institution benchmark, what is the admissions categorization for this applicant at this school? Weigh academic fit against the benchmark ranges, the Builder Delta level as a differentiator within the admitted academic range, and whether the annual budget is realistic given the available financial data.",
+      "criteria": {
+        "safety": "Admission is highly likely, the applicant profile sits well above the school's typical admitted range for this program",
+        "target": "Admission is a realistic, even likelihood, the applicant profile is well matched to the school's typical admitted range",
+        "reach": "Admission is possible but not likely, the applicant profile is within or near the typical range but the program is highly selective",
+        "high_reach": "Admission is unlikely, the program is extremely selective and nothing in the profile clearly separates this applicant from the broader admitted pool"
+      }
+    }
+  }
+}
