@@ -1,5 +1,5 @@
 {
-  "_source": "From The Engineering Dad, 'You Do Not Need To Know How To Code To Build A College Admissions Predictor Tonight', https://theengineeringdad.substack.com/p/the-easiest-first-build. Each entry below is real Common Data Set admissions data, 2025-26 cycle, ready to paste into the institution_benchmark block of request_template.json.",
+  "_source": "From The Engineering Dad, 'The Easiest First Build For A Student Who Has Never Shipped Anything, a 5 Minute-Starter Project', https://theengineeringdad.substack.com/p/the-easiest-first-build. Each entry below is real Common Data Set admissions data, 2025-26 cycle, ready to paste into the institution_benchmark block of request_template.json.",
   "California Institute of Technology": {
     "school": "California Institute of Technology",
     "admit_rate_percent": 3.79,

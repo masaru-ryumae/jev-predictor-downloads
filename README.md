@@ -1,6 +1,6 @@
 # College Admissions Predictor, Jev API Files
 
-From The Engineering Dad, "You Do Not Need To Know How To Code To Build A College Admissions Predictor Tonight"
+From The Engineering Dad, "The Easiest First Build For A Student Who Has Never Shipped Anything, a 5 Minute-Starter Project"
 
 https://theengineeringdad.substack.com/p/the-easiest-first-build
 

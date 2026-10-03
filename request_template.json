@@ -1,5 +1,5 @@
 {
-  "_source": "From The Engineering Dad, 'You Do Not Need To Know How To Code To Build A College Admissions Predictor Tonight', https://theengineeringdad.substack.com/p/the-easiest-first-build. Read the free section for the five-minute version, the paid section explains what every field here means and how the full pipeline works.",
+  "_source": "From The Engineering Dad, 'The Easiest First Build For A Student Who Has Never Shipped Anything, a 5 Minute-Starter Project', https://theengineeringdad.substack.com/p/the-easiest-first-build. Read the free section for the five-minute version, the paid section explains what every field here means and how the full pipeline works.",
   "_instructions": "This is the file call_jev.py reads. Replace every value in applicant_profile with your own kid's real numbers. Replace institution_benchmark with one school's entry copied straight out of 21_school_benchmarks.json, no retyping needed. Delete this _source and _instructions field before running, they are not real fields Jev reads, they are just notes for you.",
   "state": {
     "applicant_profile": {
